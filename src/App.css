@@ -1,0 +1,9 @@
+.container{
+    width: 100%;
+}
+[class^='col-']{
+    border: 1px solid black;
+}
+table, tr, td, th{
+    border: 1px solid black;
+}
