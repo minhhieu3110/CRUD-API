@@ -7,3 +7,6 @@
 table, tr, td, th{
     border: 1px solid black;
 }
+.btn-action{
+    margin: 15px;
+}
